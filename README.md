@@ -29,4 +29,8 @@ Step5: Save the application and goto Solution explorer
 
 Step6: press (F5) Button
 
+-------------------
+Use windows IIS to run the project on localhost
+
+make sure to have .net and other dependend options enabled in ISS settings
 
